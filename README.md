@@ -6,4 +6,4 @@ Ranked the fastest running implementation for this particular project, and the o
 
 Usage: make -> Then ./word filename sortAlgo useHash debugPrint
 
-The dictionary.txt file must be in the same dictionary as the executable
+The dictionary.txt file must be in the same dictionary as the executable.
